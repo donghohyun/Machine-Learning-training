@@ -27,10 +27,10 @@
 3. k-means와 gmm을 이용한 군집을 비교해 보았을때 군집을 다르게 설정하는 것을 볼 수 있었으며 해당 부분에 대해서는 추후 어떠한 방향으로 군집을 이룰것인가에 따라 어떤것을 사용할지 결정되어야 할것으로 예상된다.
 * K-means를 이용한 군집화
 <p align="center">
-    <img src="군집화/image/k-means.png" weight = "500">
+    <img src="군집화/image/K-means.png" weight = "500">
 </p>
 <p align="center">
-    <img src="군집화/image/k-means_2.png" weight = "500">
+    <img src="군집화/image/K-means_2.png" weight = "500">
 </p>
 * gmm을 이용한 군집화
 <p align="center">
