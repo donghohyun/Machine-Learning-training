@@ -12,7 +12,7 @@
 2. 육안으로 보았을때 둘 중 어느것의 분포가 고른지는 정확하게 판별할 수 없었지만 개형이 다르다는것은 확인 가능하였다.
 * PCA 미적용(GMM만 적용)
 <p align="center">
-    <img src="군집화/image/gmm만 이용.png" weight = "500">
+    <img src="군집화/image/gmm만 이용.png" >
 </p>
 
 
