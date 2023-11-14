@@ -12,12 +12,13 @@
 2. 육안으로 보았을때 둘 중 어느것의 분포가 고른지는 정확하게 판별할 수 없었지만 개형이 다르다는것은 확인 가능하였다.
 * PCA 미적용(GMM만 적용)
 <p align="center">
-    <img src="image/gmm만 이용.png" weight = "500">
+    <img src="군집화/image/gmm만 이용.png" weight = "500">
  </p>
+
 
 * PCA 적용
 * <p align="center">
-    <img src="image/gmm&pca 이용.png" weight = "500">
+    <img src="군집화/image/gmm&pca 이용.png" weight = "500">
  </p>
 
 # 결과 2
@@ -26,14 +27,14 @@
 3. k-means와 gmm을 이용한 군집을 비교해 보았을때 군집을 다르게 설정하는 것을 볼 수 있었으며 해당 부분에 대해서는 추후 어떠한 방향으로 군집을 이룰것인가에 따라 어떤것을 사용할지 결정되어야 할것으로 예상된다.
 * K-means를 이용한 군집화
 <p align="center">
-    <img src="image/k-means.png" weight = "500">
+    <img src="군집화/image/k-means.png" weight = "500">
 </p>
 <p align="center">
-    <img src="image/k-means_2.png" weight = "500">
+    <img src="군집화/image/k-means_2.png" weight = "500">
 </p>
 * gmm을 이용한 군집화
 <p align="center">
-    <img src="image/gmm_수학 국어.png" weight = "500">
+    <img src="군집화/image/gmm_수학 국어.png" weight = "500">
 </p>
 
 # 느낀점
